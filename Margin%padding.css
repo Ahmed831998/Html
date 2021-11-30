@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+}
+.container{
+    width: 100%;
+    height: 500px;
+    /* background-color: crimson; */
+    background-image: url(https://quotess.cc/wp-content/uploads/2018/07/4697.jpg);
+}
+.head{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    margin-right: 20px;
+}
+.item{
+    height: 400px;
+    width: 350px;
+    /* background-color: darkblue; */
+    float: left;
+    margin-left: 50px;
+    padding-top: 70px;
+
+}
+.item img{
+    width: 360px;
+    height: 300px;
+}
+.item i{
+    font-weight: bolder;
+    text-align: center;
+}
+
+.butt button{
+    margin-left: 500px;
+    margin-bottom: 100px;
+    border: none;
+    padding: 15px 40px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:lightpink;
+    
+}
