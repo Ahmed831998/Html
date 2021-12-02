@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=BioRhyme:wght@700&family=Lobster&display=swap');
+body{
+    margin: 0;
+}
+.container{
+    width: 100%;
+    height: 800px;
+    /* background-color: blue; */
+    background-image:url(https://c.neh.tw/thumb/f/720/cf815cbf9a164df1ba0b.jpg);
+}
+.container p{
+    color: green;
+    text-align: center;
+}
+.container h1{
+    color: cornsilk;
+    text-align:center;
+    font-size: 40px;
+    font-family: 'BioRhyme'
+}
+.item1{
+    width: 500px;
+    height: 600px;
+    /* background-color: crimson; */
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHY2npqOvUNNIg9ENtOXGbwYZ9VFuPDBJDpg&usqp=CAU);
+ 
+    float: left;
+    margin-top: 15px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+    text-align: left;
+}
+.item2{
+    width: 300px;
+    height: 600px;
+    /* background-color:orange; */
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHY2npqOvUNNIg9ENtOXGbwYZ9VFuPDBJDpg&usqp=CAU);
+    margin-top: 15px;
+    margin-bottom: 40px;
+    float: left;
+}
+.item1 input{
+    border: none;
+    padding: 15px 40px;
+    margin-left: 30px;
+    margin-top: 20px;
+    color: white;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/617/363/732/wave-red-lines-light-wallpaper-preview.jpg);
+
+}
+.item1 button{
+    border: none;
+    padding: 20PX 100PX;
+    margin-top: 160px;
+    margin-left: 130px;
+    background-image: url(https://img.freepik.com/free-photo/lens-flare-ligh…creen-filter-photos_3247-212.jpg?size=626&ext=jpg);
+}
+.item2 sup{
+    color: green;
+    font-size: 25px;
+    font-weight: bold;
+}
+.item2 small{
+    font-weight: bold;
+    color: white;
+}
